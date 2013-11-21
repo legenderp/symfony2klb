@@ -1,4 +1,4 @@
 symfony2klb
 ===========
 
-Kelompok Belajar Somplay
+Kelompok Belajar Somplay living with open source (legenderp)
