@@ -1,4 +1,4 @@
 symfony2klb
 ===========
 
-Kelompok Belajar
+Kelompok Belajar Somplay
